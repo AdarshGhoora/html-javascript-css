@@ -1,0 +1,45 @@
+h2{
+ line-height: 35px;
+ padding-left:10px;
+ margin-top: 180px;
+ margin-left: 100px;
+}
+
+.container1{
+ width:80%;
+ display: grid;
+ grid-template-columns: repeat(3,400px);
+ grid-template-rows: repeat(2,300px);
+ grid-gap:30px;
+ margin-left: 250px;
+}
+
+.container1 a{
+color: #000;
+text-decoration: none;
+}
+
+.container1 a h3{
+ margin-left: -280px;
+ text-align: center;
+}
+
+.brands h2{
+ margin-top: -50px;
+ margin-left: 100px;
+}
+
+.container1 a h3:hover{
+ color: #FF2833;
+ text-decoration:underline;
+}
+
+.footer-main{
+ margin-top: -200px;
+}
+
+.footer-main h2{
+ color:#C0C0C0;
+ padding: 10px;
+ margin-left: 5px;
+}
